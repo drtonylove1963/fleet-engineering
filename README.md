@@ -1,18 +1,13 @@
 # Fleet Engineering
 
 <p align="center">
-  <img src="assets/visuals/fleet-engineering-header.jpg" alt="Fleet Engineering — Govern populations of agents with accountability" width="100%" />
-</p>
-
-
-<p align="center">
   <a href="https://github.com/cobusgreyling/fleet-engineering/actions/workflows/audit.yml"><img src="https://img.shields.io/github/actions/workflow/status/cobusgreyling/fleet-engineering/audit.yml?label=fleet-audit%20dogfood" alt="fleet-audit dogfood"></a>
   <a href="https://github.com/cobusgreyling/fleet-engineering/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT"></a>
   <a href="https://cobusgreyling.github.io/fleet-engineering/"><img src="https://img.shields.io/badge/GitHub_Pages-live-6366f1" alt="Pages"></a>
 </p>
 
 <p align="center">
-  <img src="assets/cobus-greyling.jpg" alt="Cobus Greyling" />
+  <img src="assets/visuals/fleet-engineering-header.jpg" alt="Fleet Engineering — Govern populations of agents with accountability" width="100%" />
 </p>
 
 **Fleet engineering is replacing ad-hoc populations of agents with an accountable organization. You design the registry, identity, permissions, inbox, audit trail, and sovereign control that let many loops run safely across a team.**
