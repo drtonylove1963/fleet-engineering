@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/visuals/fleet-engineering-header.jpg" alt="Fleet Engineering — Govern populations of agents with accountability" width="100%" />
+  <img src="assets/visuals/fe.png" alt="Fleet Engineering — Govern populations of agents with accountability" width="100%" />
 </p>
 
 **Fleet engineering is replacing ad-hoc populations of agents with an accountable organization. You design the registry, identity, permissions, inbox, audit trail, and sovereign control that let many loops run safely across a team.**
