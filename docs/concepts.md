@@ -59,6 +59,8 @@ Fleet engineering begins when:
 
 These map to **identity & credentials** — one of the five fleet concerns.
 
+**Runnable companion:** [assistant-vs-claw](https://github.com/cobusgreyling/assistant-vs-claw) — mock Notion/Slack demos, trust-boundary tests, and a [Fleet mapping guide](https://github.com/cobusgreyling/assistant-vs-claw/blob/main/docs/FLEET_MAPPING.md). No API keys required.
+
 ## The Five Concerns (+ Registry)
 
 See [five-concerns.md](./five-concerns.md).

@@ -52,6 +52,7 @@ Unsure? Use the [Pattern Picker](docs/pattern-picker.md).
 | Start here | Description |
 |------------|-------------|
 | [Concepts](docs/concepts.md) | Fleet vs loop vs harness — **read this first** |
+| [Assistant vs Claw](https://github.com/cobusgreyling/assistant-vs-claw) | Runnable identity models (on-behalf-of vs fixed credentials) |
 | [Maturity Model](docs/maturity-model.md) | F0–F3 phased rollout |
 | [Five Concerns](docs/five-concerns.md) | Topology, choreography, identity, economics, sovereign control |
 | [Accountability Test](docs/accountability-test.md) | The one-sentence standard for real fleets |
